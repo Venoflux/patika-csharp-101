@@ -83,7 +83,7 @@ namespace conversion
 
             rakam1 = Int32.Parse(metin1);
             double1 = Double.Parse(metin2);
-            
+
             Console.WriteLine("rakam1: " + rakam1);
             Console.WriteLine("double1: " + double1);
         }
