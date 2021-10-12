@@ -1,0 +1,16 @@
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.exe
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.deps.json
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.runtimeconfig.json
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.runtimeconfig.dev.json
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.dll
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\ref\conversion.dll
+C:\Users\erols\Documents\patika-csharp-101\conversion\bin\Debug\net5.0\conversion.pdb
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.csproj.AssemblyReference.cache
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.AssemblyInfoInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.AssemblyInfo.cs
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.dll
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\ref\conversion.dll
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.pdb
+C:\Users\erols\Documents\patika-csharp-101\conversion\obj\Debug\net5.0\conversion.genruntimeconfig.cache
