@@ -1,0 +1,16 @@
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.exe
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.deps.json
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.runtimeconfig.json
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.runtimeconfig.dev.json
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.dll
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\ref\conditional-statements.dll
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\bin\Debug\net5.0\conditional-statements.pdb
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.csproj.AssemblyReference.cache
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.AssemblyInfoInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.AssemblyInfo.cs
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.csproj.CoreCompileInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.dll
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\ref\conditional-statements.dll
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.pdb
+C:\Users\erols\Documents\patika-csharp-101\conditional-statements\obj\Debug\net5.0\conditional-statements.genruntimeconfig.cache
