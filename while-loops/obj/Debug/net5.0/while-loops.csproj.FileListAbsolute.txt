@@ -1,0 +1,16 @@
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.exe
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.deps.json
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.runtimeconfig.json
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.runtimeconfig.dev.json
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.dll
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\ref\while-loops.dll
+C:\Users\erols\Documents\patika-csharp-101\while-loops\bin\Debug\net5.0\while-loops.pdb
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.csproj.AssemblyReference.cache
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.AssemblyInfoInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.AssemblyInfo.cs
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.csproj.CoreCompileInputs.cache
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.dll
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\ref\while-loops.dll
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.pdb
+C:\Users\erols\Documents\patika-csharp-101\while-loops\obj\Debug\net5.0\while-loops.genruntimeconfig.cache
