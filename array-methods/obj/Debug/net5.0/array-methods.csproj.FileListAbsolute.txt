@@ -1,0 +1,16 @@
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods.deps.json
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods.runtimeconfig.json
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods.runtimeconfig.dev.json
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods.dll
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/ref/array-methods.dll
+/home/venoflux/Documents/patika-csharp-101/array-methods/bin/Debug/net5.0/array-methods.pdb
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.csproj.AssemblyReference.cache
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.AssemblyInfoInputs.cache
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.AssemblyInfo.cs
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.csproj.CoreCompileInputs.cache
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.dll
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/ref/array-methods.dll
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.pdb
+/home/venoflux/Documents/patika-csharp-101/array-methods/obj/Debug/net5.0/array-methods.genruntimeconfig.cache
