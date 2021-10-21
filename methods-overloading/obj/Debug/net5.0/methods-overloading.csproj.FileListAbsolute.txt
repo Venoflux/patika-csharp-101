@@ -1,0 +1,16 @@
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading.deps.json
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading.runtimeconfig.json
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading.runtimeconfig.dev.json
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading.dll
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/ref/methods-overloading.dll
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/bin/Debug/net5.0/methods-overloading.pdb
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.csproj.AssemblyReference.cache
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.AssemblyInfoInputs.cache
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.AssemblyInfo.cs
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.csproj.CoreCompileInputs.cache
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.dll
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/ref/methods-overloading.dll
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.pdb
+/home/venoflux/Documents/patika-csharp-101/methods-overloading/obj/Debug/net5.0/methods-overloading.genruntimeconfig.cache
