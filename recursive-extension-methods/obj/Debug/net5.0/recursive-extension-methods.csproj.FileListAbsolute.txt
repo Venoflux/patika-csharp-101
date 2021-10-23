@@ -1,0 +1,16 @@
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods.deps.json
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods.runtimeconfig.json
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods.runtimeconfig.dev.json
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods.dll
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/ref/recursive-extension-methods.dll
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/bin/Debug/net5.0/recursive-extension-methods.pdb
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.csproj.AssemblyReference.cache
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.AssemblyInfoInputs.cache
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.AssemblyInfo.cs
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.csproj.CoreCompileInputs.cache
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.dll
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/ref/recursive-extension-methods.dll
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.pdb
+/home/venoflux/Documents/patika-csharp-101/recursive-extension-methods/obj/Debug/net5.0/recursive-extension-methods.genruntimeconfig.cache
