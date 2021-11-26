@@ -48,6 +48,17 @@ namespace class_concept
         public int No;
         public string Departman;
 
+
+        public Calisan(string ad, string soyad, int no, string departman)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Departman = departman;
+        }
+
+        public Calisan(){};
+
         public void CalisanBilgileri()
         {
             Console.WriteLine("Çalışanın Adı: {0}", Ad);
